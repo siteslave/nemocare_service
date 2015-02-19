@@ -1,0 +1,13 @@
+{
+  "name": "express_starterkit",
+  "version": "0.0.0",
+  "authors": [
+    "Satit Rianpit <rianpit@gmail.com>"
+  ],
+  "keywords": [
+    "ExpressJS",
+    "NodeJS"
+  ],
+  "license": "MIT",
+  "private": true
+}
